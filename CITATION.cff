@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, por favor cite-o conforme os metadados abaixo."
+title: "Ubuntu 22.04 Workstation Provisioner & Hardening Tool"
+version: "1.0.0"
+date-released: 2026-11-25
+authors:
+  - family-names: "Coimbra de Oliveira"
+    given-names: "Daniel"
+repository-code: "https://github.com/Danielcoimbra10/ubuntu22-workstation-provisioner"
+keywords:
+  - linux
+  - ubuntu
+  - shell-script
+  - automation
+  - system-administration
+  - hardening
+license: MIT
