@@ -1,4 +1,5 @@
 # Ubuntu 22.04 Workstation Provisioner & Hardening Tool
+[![DOI](https://zenodo.org/badge/1472069045.svg)](https://doi.org/10.5281/zenodo.24538610)
 
 Ferramenta desenvolvida em Shell Script (Bash) para automatizar o provisionamento, o endurecimento de segurança (*hardening*) e a padronização de pós-instalação em estações de trabalho baseadas no **Ubuntu 22.04 LTS (Jammy Jellyfish)**.
 
